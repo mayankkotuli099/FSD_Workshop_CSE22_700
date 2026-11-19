@@ -1,0 +1,14 @@
+{
+  "name": "fsd-assignments",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FSD workshop assignment programs",
+  "type": "commonjs",
+  "scripts": {
+    "assignment-1": "node Assignment-1.js",
+    "bakery": "node Ques-5-Assign/app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
